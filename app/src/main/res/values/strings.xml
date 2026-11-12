@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PendaftaranSeminarTeknologi</string>
+    <string name="seminar_teknologi_2026">SEMINAR TEKNOLOGI 2026</string>
+    <string name="future_of_ai_amp_digital_innovation"><![CDATA[Future of AI & Digital Innovation]]></string>
+    <string name="form_pendaftaran">Form Pendaftaran</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="masukkan_nama_lengkap">Masukkan nama lengkap</string>
+    <string name="usia_umur">Usia / Umur</string>
+    <string name="masukkan_usia">Masukkan usia</string>
+    <string name="kirim_data_ke_form">Kirim Data ke Form</string>
+    <string name="buka_info_event">Buka Info Event</string>
+    <string name="seminar_teknologi_registration_app">Seminar Teknologi - Registration App</string>
+    <string name="ceklis">✓</string>
+    <string name="pendaftaran_berhasil">Pendaftaran Berhasil!</string>
+    <string name="data_peserta_seminar">Data peserta seminar</string>
+    <string name="selesai_kembali">Selesai / Kembali</string>
+</resources>
